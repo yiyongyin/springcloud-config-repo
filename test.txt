@@ -1,3 +1,0 @@
-this is a test!
-are you ready?
-git very good!
